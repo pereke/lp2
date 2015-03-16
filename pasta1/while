@@ -1,0 +1,5 @@
+While (n<10){
+  p = a+p;
+  a = p-a;
+}
+  System.out.println (a + b)
