@@ -1,0 +1,1 @@
+É utilizada para instanciar novos objetos de uma especifica classe. Instância um objeto de uma classe do aplicatico
